@@ -10,5 +10,7 @@
 - [Sending emails with SendGrid and spring boot](https://hamdi-bouallegue.medium.com/sending-emails-with-sendgrid-and-spring-boot-81e9637a1f05)
 - [Integrate the message broker RabbitMQ with spring boot](https://hamdi-bouallegue.medium.com/integrate-the-message-broker-rabbitmq-with-spring-boot-ee94ea489706)
 - [Integrate Google maps autocomplete with Angular & Angular material](https://hamdi-bouallegue.medium.com/integrate-google-maps-autocomplete-with-angular-angular-material-5ee6c31946c2)
+- [Integrate Google Cloud Vision with Spring Boot](https://medium.com/codex/integrate-google-cloud-vision-with-spring-boot-8e93db4dc110)
+- [Secure Your angular & spring boot application using keycloak](https://hamdi-bouallegue.medium.com/secure-your-angular-spring-boot-application-using-keycloak-891efab50db8)
 <!-- BLOG-POST-LIST:END -->
 
