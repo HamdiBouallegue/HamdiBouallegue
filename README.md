@@ -13,4 +13,6 @@
 - [Integrate Google Cloud Vision with Spring Boot](https://medium.com/codex/integrate-google-cloud-vision-with-spring-boot-8e93db4dc110)
 - [Secure Your angular & spring boot application using keycloak](https://hamdi-bouallegue.medium.com/secure-your-angular-spring-boot-application-using-keycloak-891efab50db8)
 <!-- BLOG-POST-LIST:END -->
+html
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/0" alt="Recent Article 0"> 
 
