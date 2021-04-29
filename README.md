@@ -5,7 +5,7 @@
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/0" alt="Recent Article 0"> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/0" alt="Recent Article 1"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/1" alt="Recent Article 1"> 
 <!-- BLOG-POST-LIST:END -->
     
 Get In Touch!
