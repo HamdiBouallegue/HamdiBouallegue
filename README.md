@@ -8,7 +8,9 @@
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/1" alt="Recent Article 1"> 
 <!-- BLOG-POST-LIST:END -->
     
-Get In Touch!
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/hamdi-bouallegue-810054151/)
 
 
 
