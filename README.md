@@ -1,6 +1,10 @@
 ### I'm Hamdi, a software engineer 👨‍💻, and writer 📝
-  
-- 🔭I’m currently working on something cool 😉  
+  - 🔭I’m currently working on something cool 😉  
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
 
 ## Connect with me  
 <div align="center">
@@ -23,8 +27,5 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+
 ----
