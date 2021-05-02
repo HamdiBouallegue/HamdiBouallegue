@@ -29,7 +29,7 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdiBouallegue&theme=nightowl" />
-
+![Hamdi Bouallegue's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamdiBouallegue&show_icons=true&theme=radical)
 
 
 
