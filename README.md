@@ -25,7 +25,7 @@
   
 ## 📈 Github Stats  
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs&layout=compact/?username=HamdiBouallegue&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdiBouallegue&theme=nightowl&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HamdiBouallegue&show_icons=true&count_private=true&hide_border=true&theme=nightowl" align="center" /> 
 </div>
 
