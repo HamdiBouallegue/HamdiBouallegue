@@ -1,11 +1,10 @@
 ### I'm Hamdi, a software engineer 👨‍💻, and writer 📝
   - 🔭I’m currently working on something cool 😉  
 
-## ✍ Blog & Writing  
-<!-- BLOG-POST-LIST:START -->  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/0" alt="Recent Article 0"> 
+### 📙 Blog Posts
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
 
-<!-- BLOG-POST-LIST:END -->  
 
 ## 🔗 Connect with me  
 <div >
