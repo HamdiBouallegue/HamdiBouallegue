@@ -24,12 +24,13 @@
 </div>  
   
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HamdiBouallegue&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdiBouallegue&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HamdiBouallegue&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdiBouallegue&theme=nightowl" />
-[![Hamdi Bouallegue's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamdiBouallegue)](https://github.com/HamdiBouallegue/github-readme-stats)
+
 
 
 
