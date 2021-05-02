@@ -4,17 +4,17 @@
 ### 📙 Blog Posts
 <!--START_SECTION:feed-->
 #### [Optimize Your CSS Code With Sass](https:&#x2F;&#x2F;hamdi-bouallegue.medium.com&#x2F;optimize-your-css-code-with-sass-7b9e86dde59e?source&#x3D;rss-dc0abf7af650------2) 
-**
+
 #### [Sending SMS with Vonage and spring boot](https:&#x2F;&#x2F;hamdi-bouallegue.medium.com&#x2F;sending-sms-with-vonage-and-spring-boot-1f5b13810140?source&#x3D;rss-dc0abf7af650------2) 
-**
+
 #### [Sending emails with SendGrid and spring boot](https:&#x2F;&#x2F;hamdi-bouallegue.medium.com&#x2F;sending-emails-with-sendgrid-and-spring-boot-81e9637a1f05?source&#x3D;rss-dc0abf7af650------2) 
-**
+
 #### [Online payment using Stripe, Angular, and Spring boot](https:&#x2F;&#x2F;hamdi-bouallegue.medium.com&#x2F;online-payment-using-stripe-angular-and-spring-boot-bf576ad177b2?source&#x3D;rss-dc0abf7af650------2) 
-**
+
 #### [E-signature With HelloSign and Spring boot](https:&#x2F;&#x2F;hamdi-bouallegue.medium.com&#x2F;e-signature-with-hellosign-and-spring-boot-4fcba7e3e2d1?source&#x3D;rss-dc0abf7af650------2) 
-**
+
 #### [Integrate the message broker RabbitMQ with spring boot](https:&#x2F;&#x2F;hamdi-bouallegue.medium.com&#x2F;integrate-the-message-broker-rabbitmq-with-spring-boot-ee94ea489706?source&#x3D;rss-dc0abf7af650------2) 
-**
+
 <!--END_SECTION:feed-->
 
 
