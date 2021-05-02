@@ -3,7 +3,9 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/0" alt="Recent Article 0"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/1" alt="Recent Article 1"> 
+      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/2" alt="Recent Article 1"> 
 <!-- BLOG-POST-LIST:END -->  
 
 ## Connect with me  
