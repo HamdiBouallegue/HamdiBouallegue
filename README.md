@@ -1,7 +1,7 @@
 ### I'm Hamdi, a software engineer 👨‍💻, and writer 📝
   - 🔭I’m currently working on something cool 😉  
 
-## Recent Blog Posts  
+## ✍ Blog & Writing  
 <!-- BLOG-POST-LIST:START -->  
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@hamdi-bouallegue/0" alt="Recent Article 0"> 
 
@@ -23,7 +23,7 @@
 </a>  
 </div>  
   
-## Github Stats  
+## 📈 Github Stats  
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdiBouallegue&theme=nightowl" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HamdiBouallegue&show_icons=true&count_private=true&hide_border=true&theme=nightowl" align="center" /> 
