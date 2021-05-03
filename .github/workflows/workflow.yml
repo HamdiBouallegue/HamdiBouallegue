@@ -7,6 +7,9 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: main
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://medium.com/@hamdi-bouallegue/feed
