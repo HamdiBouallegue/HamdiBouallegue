@@ -2,8 +2,7 @@ name: Update readme with blog posts
 on:
   schedule:
     # Once a day at 8 AM
-    - cron: 0 8 * * *
-
+    - cron: 30 9 * * * 
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -14,3 +13,4 @@ jobs:
           readme-section: feed
           max: 6 # max number of items (default 5)
           template: "#### [{{ title }}]({{ link }}) \n{{ contentSnippet }}\n\n"
+          ref: main
