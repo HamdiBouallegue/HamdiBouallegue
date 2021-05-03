@@ -2,18 +2,16 @@ name: Update readme with blog posts
 on:
   schedule:
     # Once a day at 8 AM
-    - cron: 43 8 * * * 
+    - cron: 03 9 * * * 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          ref: main
       - uses: JasonEtco/rss-to-readme@v1
         with:
+          ref: main
           feed-url: https://medium.com/@hamdi-bouallegue/feed
           readme-section: feed
           max: 6 # max number of items (default 5)
           template: "#### [{{ title }}]({{ link }}) \n{{ contentSnippet }}\n\n"
-          ref: main
+          
