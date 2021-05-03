@@ -1,7 +1,7 @@
 ### I'm Hamdi, a software engineer 👨‍💻, and writer 📝
   - 🔭I’m currently working on something cool 😉  
 
-### 📙 Blog Posts 
+### 📙 My Recent Posts
 <!--START_SECTION:feed-->
 #### [Optimize Your CSS Code With Sass](https:&#x2F;&#x2F;hamdi-bouallegue.medium.com&#x2F;optimize-your-css-code-with-sass-7b9e86dde59e?source&#x3D;rss-dc0abf7af650------2) 
 
@@ -18,7 +18,7 @@
 <!--END_SECTION:feed-->
 
 
-## 🔗 Connect with me  
+## 🔗 Connect With Me  
 <div >
 <a href="https://www.linkedin.com/in/hamdi-bouallegue-810054151/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
