@@ -1,4 +1,4 @@
-### I'm Hamdi, a software engineer 👨‍💻, and writer 📝
+### I'm Hamdi, a software engineer 👨‍💻, and a blog writer 📝
   - 🔭I’m currently working on something cool 😉  
 
 ### 📙 My Recent Posts
