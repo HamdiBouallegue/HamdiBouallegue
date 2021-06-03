@@ -1,8 +1,5 @@
 name: Update readme with blog posts
-on:
-  schedule:
-    # Once a day at 8 AM
-    - cron: 40 9 * * * 
+on: [push]
 jobs:
   update:
     runs-on: ubuntu-latest
