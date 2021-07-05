@@ -15,6 +15,10 @@
 
 #### [E-signature With HelloSign and Spring boot](https:&#x2F;&#x2F;hamdi-bouallegue.medium.com&#x2F;e-signature-with-hellosign-and-spring-boot-4fcba7e3e2d1?source&#x3D;rss-dc0abf7af650------2) 
 
+#### [Integrate the message broker RabbitMQ with spring boot](https:&#x2F;&#x2F;hamdi-bouallegue.medium.com&#x2F;integrate-the-message-broker-rabbitmq-with-spring-boot-ee94ea489706?source&#x3D;rss-dc0abf7af650------2) 
+
+#### [Integrate Google maps autocomplete with Angular &amp; Angular material](https:&#x2F;&#x2F;hamdi-bouallegue.medium.com&#x2F;integrate-google-maps-autocomplete-with-angular-angular-material-5ee6c31946c2?source&#x3D;rss-dc0abf7af650------2) 
+
 <!--END_SECTION:feed-->
 
 
