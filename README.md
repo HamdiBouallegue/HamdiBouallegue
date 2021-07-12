@@ -3,6 +3,8 @@
 
 ### 📙 My Recent Posts
 <!--START_SECTION:feed-->
+#### [Spring Data REST](https:&#x2F;&#x2F;medium.com&#x2F;geekculture&#x2F;spring-data-rest-d1761f934b1b?source&#x3D;rss-dc0abf7af650------2) 
+
 #### [SOLID Software Design](https:&#x2F;&#x2F;hamdi-bouallegue.medium.com&#x2F;solid-software-design-3d2d80a3838a?source&#x3D;rss-dc0abf7af650------2) 
 
 #### [Optimize Your CSS Code With Sass](https:&#x2F;&#x2F;hamdi-bouallegue.medium.com&#x2F;optimize-your-css-code-with-sass-7b9e86dde59e?source&#x3D;rss-dc0abf7af650------2) 
